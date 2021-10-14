@@ -1,0 +1,4 @@
+#tehtävän 2. mukaiset ignorerivit
+.idea/
+venv/
+*.pyc
